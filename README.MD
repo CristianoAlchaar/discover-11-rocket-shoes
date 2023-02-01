@@ -9,3 +9,4 @@ Project developed with __HTML__ and __CSS__
 Challenge made for "Discover" / [@Rocketseat](https://github.com/Rocketseat)
 
 By [Cristiano Alchaa da Silva](https://github.com/CristianoAlchaar)
+
